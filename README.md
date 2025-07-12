@@ -3,7 +3,7 @@
 
 ## Folders
 - Inflation Report Reaction
-    - The main notebook focuses on how the market reacts to an inflation report over one day
+    - The [main notebook](https://github.com/henrycosentino/macro_data_analysis/blob/main/Inflation%20Report%20Reaction/cpi_data_analysis.ipynb) focuses on how the market reacts to an inflation report over one day
     - Findings
       - 2-Year Treasury Yield: Yield changes on CPI release days tend to be positive with higher-than-expected releases and negative with lower-than-expected releases
       - 10-Year Treasury Yield: Yield changes on CPI release days tend to be positive with higher-than-expected releases and negative with lower-than-expected releases
