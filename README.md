@@ -17,8 +17,8 @@
 - FED Dual Mandate
   - The [FED notebook](https://github.com/henrycosentino/macro_data_analysis/blob/main/FED%20Dual%20Mandate/fed_analysis.ipynb) focuses on analyzing Jerome Powell's Federal Funds Rate decisions
   - Findings
-    - Current FED policy relative to that of other FED chairs who made policy decisions under a similar economic regime to the current economic regime sets the policy rate moderately higher
-    - Current FED policy relative to that of other FED chairs who made policy decisions under a lower inflation economic regime, compared to the current economic regime, sets the policy rate moderately higher
+    - Current FED policy (Jerome Powell FED) sets the policy rate moderately lower, relative to that of other FED chairs who made policy decisions under a similar economic regime to the current economic regime
+    - Current FED policy (Jerome Powell FED) sets the policy rate moderately lower, relative to that of other FED chairs who made policy decisions under a lower inflation economic regime
 
 
 
